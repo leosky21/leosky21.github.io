@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+# Site settings
+title: Ray的博客
+SEOTitle: Ray的博客 | Ray Blog
+header-img: img/home-bg-hill.jpg
+email: leosky21@hotmail.com
+description: "描述"
+keyword: "Ray的博客, Ray"
+url: "https://leosky21.github.io"
+baseurl: ""
