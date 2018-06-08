@@ -7,8 +7,7 @@ date:       2015-07-09
 author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
+    
 ---
 
 
@@ -42,3 +41,5 @@ tags:
 ### Thanks
 
 [Reveal.js](http://lab.hakim.se/reveal-js)
+
+
